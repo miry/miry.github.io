@@ -1,1 +1,27 @@
-theme: jekyll-theme-minimal
+remote_theme: chesterhow/tale
+permalink:  /:year-:month-:day/:title
+paginate:   25
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
+
+markdown: kramdown
+title: IMOC's stuff
+description: >-
+  Have fun with Crystal, Ruby, and Go.
+  "Simplicity is prerequisite for reliability"
+
+  Glory to Ukraine!
+  ПТН ПНХ!
+
+twitter_username: miry_sof
+github_username:  miry
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: post
+
+author:
+  name: Michael Nikitochkin
