@@ -2,9 +2,10 @@
 url: https://medium.com/notes-and-tips-in-full-stack-development/convert-laptop-to-a-router-for-telekom-de-network-21bd2f9a0ef3
 canonical_url: https://medium.com/notes-and-tips-in-full-stack-development/convert-laptop-to-a-router-for-telekom-de-network-21bd2f9a0ef3
 title: Convert laptop to a router for Telekom.de network
-subtitle: Set up a Linux machine as a WiFi router in a few steps. No luck with Mac OS devices.
+subtitle: Set up a Linux machine as a WiFi router in a few steps. No luck with Mac
+  OS devices.
 slug: convert-laptop-to-a-router-for-telekom-de-network
-description: 
+description: ""
 tags: linux,telekom,pppoe,internet,router
 author: Michael Nikitochkin
 username: miry

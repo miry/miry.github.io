@@ -2,9 +2,10 @@
 url: https://jtway.co/allow-multiple-access-control-requests-for-rails-50d1162c1425
 canonical_url: https://jtway.co/allow-multiple-access-control-requests-for-rails-50d1162c1425
 title: Allow Multiple Access Control Requests for Rails
-subtitle: If you have problem with sending XHR requests from different domains, it will be problematic to get content, because
+subtitle: If you have problem with sending XHR requests from different domains, it
+  will be problematic to get content, because
 slug: allow-multiple-access-control-requests-for-rails
-description: 
+description: ""
 tags: cors
 author: Michael Nikitochkin
 username: miry

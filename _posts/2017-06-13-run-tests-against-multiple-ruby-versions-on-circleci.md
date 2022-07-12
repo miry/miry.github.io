@@ -2,9 +2,10 @@
 url: https://jtway.co/run-tests-against-multiple-ruby-versions-on-circleci-60e1e523e245
 canonical_url: https://jtway.co/run-tests-against-multiple-ruby-versions-on-circleci-60e1e523e245
 title: Run Tests Against Multiple Ruby Versions On CircleCI
-subtitle: Using multiple MRI ruby versions is not very hard. There are some ruby versions that have already been installed, and if you would like to…
+subtitle: Using multiple MRI ruby versions is not very hard. There are some ruby versions
+  that have already been installed, and if you would like to…
 slug: run-tests-against-multiple-ruby-versions-on-circleci
-description: 
+description: ""
 tags: ruby,docker,circleci,rails,ruby-on-rails
 author: Michael Nikitochkin
 username: miry

@@ -2,9 +2,10 @@
 url: https://jtway.co/simple-benchmarking-rack-web-server-abe6a6f974f6
 canonical_url: https://jtway.co/simple-benchmarking-rack-web-server-abe6a6f974f6
 title: Simple Benchmarking Rack Web Server
-subtitle: Before each project we check new versions of favorite Ruby web servers and choose which is the best.
+subtitle: Before each project we check new versions of favorite Ruby web servers and
+  choose which is the best.
 slug: simple-benchmarking-rack-web-server
-description: 
+description: ""
 tags: ruby
 author: Michael Nikitochkin
 username: miry

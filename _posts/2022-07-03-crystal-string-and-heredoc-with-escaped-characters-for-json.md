@@ -2,9 +2,10 @@
 url: https://medium.com/notes-and-tips-in-full-stack-development/crystal-string-and-heredoc-with-escaped-characters-for-json-4c3e00fd7a65
 canonical_url: https://medium.com/notes-and-tips-in-full-stack-development/crystal-string-and-heredoc-with-escaped-characters-for-json-4c3e00fd7a65
 title: Crystal string and heredoc with escaped characters for JSON
-subtitle: TLDR: Clarify a problem why some JSON content could be not parsable via directives and how to fix it
+subtitle: 'TLDR: Clarify a problem why some JSON content could be not parsable via
+  directives and how to fix it'
 slug: crystal-string-and-heredoc-with-escaped-characters-for-json
-description: 
+description: ""
 tags: crystal-lang,json
 author: Michael Nikitochkin
 username: miry

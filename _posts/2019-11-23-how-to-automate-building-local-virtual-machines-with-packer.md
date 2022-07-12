@@ -2,7 +2,8 @@
 url: https://jtway.co/how-to-automate-building-local-virtual-machines-with-packer-a238ba6b49c7
 canonical_url: https://jtway.co/how-to-automate-building-local-virtual-machines-with-packer-a238ba6b49c7
 title: How to automate building local virtual machines with Packer
-subtitle: We will learn how to create a disk image base on a remote iso disk image. Auto install packages and configure a virtual machine with a…
+subtitle: We will learn how to create a disk image base on a remote iso disk image.
+  Auto install packages and configure a virtual machine with a…
 slug: how-to-automate-building-local-virtual-machines-with-packer
 description: Tutorial how to use packer with Qemu
 tags: packers,qemu,automation,linux,continuous-integration
@@ -34,7 +35,8 @@ In this step, I show you how to install **Centos** with preinstalled packages.
 
 Before start, visit the documentation page of [**Packer Qemu builder**](https://www.packer.io/docs/builders/qemu.html). There is a basic example with all the required options. I created a modified version and saved to [centos.json](https://github.com/miry/samples/tree/master/experiments/3-packer-images/)
 
-```
+{% raw %}
+```json
 {
   "variables": {
     "centos_password": "centos",
@@ -69,6 +71,7 @@ Before start, visit the documentation page of [**Packer Qemu builder**](https://
   ]
 }
 ```
+{% endraw %}
 
 Most important changes in settings:
 

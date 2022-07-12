@@ -4,7 +4,7 @@ canonical_url: https://jtway.co/generate-kubernetes-client-certificates-64782f7a
 title: Generate Kubernetes client certificates
 subtitle: TL;DR Use kubeadm tool on your local machine to generate certificates
 slug: generate-kubernetes-client-certificates
-description: 
+description: ""
 tags: kubernetes,kubeadm,ssl-certificate,macos
 author: Michael Nikitochkin
 username: miry

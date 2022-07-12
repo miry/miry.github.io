@@ -2,9 +2,10 @@
 url: https://jtway.co/revise-your-stylesheets-part-1-color-scheme-6125f869453b
 canonical_url: https://jtway.co/revise-your-stylesheets-part-1-color-scheme-6125f869453b
 title: Revise Your Stylesheets. Part 1. Color Scheme
-subtitle: Ever wonder how many colors exist in your project? Do you have strict style guides kindly prepared by the design lead? How many PSDs did…
+subtitle: Ever wonder how many colors exist in your project? Do you have strict style
+  guides kindly prepared by the design lead? How many PSDs did…
 slug: revise-your-stylesheets-part-1-color-scheme
-description: 
+description: ""
 tags: web-development,css
 author: Michael Nikitochkin
 username: miry

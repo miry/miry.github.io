@@ -2,9 +2,10 @@
 url: https://medium.com/notes-and-tips-in-full-stack-development/war-with-ads-and-trackers-d3787e34750e
 canonical_url: https://medium.com/notes-and-tips-in-full-stack-development/war-with-ads-and-trackers-d3787e34750e
 title: War With Ads and Trackers
-subtitle: My story begins with wish to see pure content of a new page in 2 seconds many many years ago. As young padawan I tried with small stuff —…
+subtitle: My story begins with wish to see pure content of a new page in 2 seconds
+  many many years ago. As young padawan I tried with small stuff —…
 slug: war-with-ads-and-trackers
-description: 
+description: ""
 tags: ad-blocking,gist
 author: Michael Nikitochkin
 username: miry

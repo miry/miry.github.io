@@ -2,9 +2,10 @@
 url: https://jtway.co/minikube-1-7-0-with-openid-and-rbac-2d3327414fff
 canonical_url: https://jtway.co/minikube-1-7-0-with-openid-and-rbac-2d3327414fff
 title: Minikube 1.7.0 with OpenID and RBAC
-subtitle: In the article Kubernetes 1.6.1 Authentication via Google I explained how to create Google Application and generate kubernetes token. I…
+subtitle: In the article Kubernetes 1.6.1 Authentication via Google I explained how
+  to create Google Application and generate kubernetes token. I…
 slug: minikube-1-7-0-with-openid-and-rbac
-description: 
+description: ""
 tags: kubernetes,minikube,openid-connect,devops,google-cloud-platform
 author: Michael Nikitochkin
 username: miry

@@ -2,9 +2,10 @@
 url: https://jtway.co/resize-amazon-ebs-volumes-without-a-reboot-ca118b010b44
 canonical_url: https://jtway.co/resize-amazon-ebs-volumes-without-a-reboot-ca118b010b44
 title: REsize Amazon EBS volumes without a reboot
-subtitle: In rare cases, it happens that disk is full, and usually, it happens not in right time. No worries, AWS supports hot expanding disk for EBS…
+subtitle: In rare cases, it happens that disk is full, and usually, it happens not
+  in right time. No worries, AWS supports hot expanding disk for EBS…
 slug: resize-amazon-ebs-volumes-without-a-reboot
-description: 
+description: ""
 tags: aws,terraform,be,xf
 author: Michael Nikitochkin
 username: miry

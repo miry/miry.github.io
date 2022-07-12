@@ -2,9 +2,10 @@
 url: https://jtway.co/setup-k8s-v1-6-0-rc-1-cluster-b4cc7749973f
 canonical_url: https://jtway.co/setup-k8s-v1-6-0-rc-1-cluster-b4cc7749973f
 title: Setup K8S v1.6.0-rc.1 cluster
-subtitle: The light/simple kubernetes cluster could be done with kubeadm tool. In current day 2016.03.26, kubernetes v1.6.0 is not released. To…
+subtitle: The light/simple kubernetes cluster could be done with kubeadm tool. In
+  current day 2016.03.26, kubernetes v1.6.0 is not released. To…
 slug: setup-k8s-v1-6-0-rc-1-cluster
-description: 
+description: ""
 tags: kubernetes,docker,tutorial,amazon-web-services
 author: Michael Nikitochkin
 username: miry

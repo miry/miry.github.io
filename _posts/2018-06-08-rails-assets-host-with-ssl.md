@@ -4,7 +4,7 @@ canonical_url: https://jtway.co/rails-assets-host-with-ssl-a843ded59ce4
 title: Rails Assets Host Trick
 subtitle: When we use simple assets server, such as
 slug: rails-assets-host-with-ssl
-description: 
+description: ""
 tags: rails,assets,tutorial,ruby
 author: Michael Nikitochkin
 username: miry

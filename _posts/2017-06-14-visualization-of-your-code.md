@@ -2,9 +2,10 @@
 url: https://jtway.co/visualization-of-your-code-d4701affa767
 canonical_url: https://jtway.co/visualization-of-your-code-d4701affa767
 title: Visualization of Your Code
-subtitle: Working at long and big projects, it is fun to see on a release date how this project was built: who worked at a particular part; when a…
+subtitle: 'Working at long and big projects, it is fun to see on a release date how
+  this project was built: who worked at a particular part; when a…'
 slug: visualization-of-your-code
-description: 
+description: ""
 tags: homebrew
 author: Michael Nikitochkin
 username: miry

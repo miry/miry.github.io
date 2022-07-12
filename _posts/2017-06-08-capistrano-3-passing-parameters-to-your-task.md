@@ -1,10 +1,11 @@
 ---
 url: https://jtway.co/capistrano-3-passing-parameters-to-your-task-e22cc9f659c3
 canonical_url: https://jtway.co/capistrano-3-passing-parameters-to-your-task-e22cc9f659c3
-title: Capistrano 3: Passing Parameters to Your Task
-subtitle: The new way of passing parameters in Capistrano v3 is to use the same solution as Rake (in some sort Capistrano 3 is totally based on…
+title: 'Capistrano 3: Passing Parameters to Your Task'
+subtitle: The new way of passing parameters in Capistrano v3 is to use the same solution
+  as Rake (in some sort Capistrano 3 is totally based on…
 slug: capistrano-3-passing-parameters-to-your-task
-description: 
+description: ""
 tags: ruby-on-rails,capistrano,testing,deployment,ruby
 author: Michael Nikitochkin
 username: miry

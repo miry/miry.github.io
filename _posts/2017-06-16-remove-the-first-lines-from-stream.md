@@ -2,9 +2,10 @@
 url: https://jtway.co/remove-the-first-lines-from-stream-83350e049166
 canonical_url: https://jtway.co/remove-the-first-lines-from-stream-83350e049166
 title: Remove the First Lines from Stream
-subtitle: I am not a linux hacker, so I wasted a lot of time trying to find a solution to strip first lines from output stream. The first my solution…
+subtitle: I am not a linux hacker, so I wasted a lot of time trying to find a solution
+  to strip first lines from output stream. The first my solution…
 slug: remove-the-first-lines-from-stream
-description: 
+description: ""
 tags: linux
 author: Michael Nikitochkin
 username: miry

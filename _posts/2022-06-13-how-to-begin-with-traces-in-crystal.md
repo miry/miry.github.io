@@ -4,7 +4,7 @@ canonical_url: https://jtway.co/how-to-begin-with-traces-in-crystal-2fd6a0255447
 title: How to begin with Traces in Crystal
 subtitle: Primitve two code examples to start working with Traces
 slug: how-to-begin-with-traces-in-crystal
-description: 
+description: ""
 tags: crystal-lang,opentelemetry,programming
 author: Michael Nikitochkin
 username: miry

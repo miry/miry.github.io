@@ -2,9 +2,10 @@
 url: https://medium.com/notes-and-tips-in-full-stack-development/crystal-detects-emoji-symbols-in-string-b6759ab94625
 canonical_url: https://medium.com/notes-and-tips-in-full-stack-development/crystal-detects-emoji-symbols-in-string-b6759ab94625
 title: Crystal detects Emoji symbols in String
-subtitle: Problem is to identify unicode characters that has different byte size, but single symbol in render. Such of the symbols Emoji.
+subtitle: Problem is to identify unicode characters that has different byte size,
+  but single symbol in render. Such of the symbols Emoji.
 slug: crystal-detects-emoji-symbols-in-string
-description: 
+description: ""
 tags: crystal-lang,emoji
 author: Michael Nikitochkin
 username: miry

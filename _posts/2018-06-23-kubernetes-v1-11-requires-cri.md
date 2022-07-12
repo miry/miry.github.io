@@ -4,7 +4,8 @@ canonical_url: https://jtway.co/kubernetes-v1-11-requires-cri-8a181f621bb7
 title: Kubernetes v1.11 requires CRI
 subtitle: Handle errors on upgrade of kubernetes cluster from v1.11-beta.2 to v1.11-rc.1
 slug: kubernetes-v1-11-requires-cri
-description: On upgrade of kubernetes cluster from v1.11-beta.2 to v1.11-rc.1, there is a missed crictl file.
+description: On upgrade of kubernetes cluster from v1.11-beta.2 to v1.11-rc.1, there
+  is a missed crictl file.
 tags: kubernetes,cri,kubeadm
 author: Michael Nikitochkin
 username: miry

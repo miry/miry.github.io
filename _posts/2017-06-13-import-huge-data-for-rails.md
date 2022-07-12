@@ -2,9 +2,9 @@
 url: https://jtway.co/import-huge-data-for-rails-e7e1b2713d71
 canonical_url: https://jtway.co/import-huge-data-for-rails-e7e1b2713d71
 title: Import Huge Data for Rails
-subtitle: I wrote a simple rake task for dump data from DB to CSV file:
+subtitle: 'I wrote a simple rake task for dump data from DB to CSV file:'
 slug: import-huge-data-for-rails
-description: 
+description: ""
 tags: ruby-on-rails
 author: Michael Nikitochkin
 username: miry

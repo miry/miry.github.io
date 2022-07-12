@@ -2,9 +2,10 @@
 url: https://jtway.co/ubuntu-server-16-06-on-raspberry-pi-3-via-terraform-93dccaef5ddb
 canonical_url: https://jtway.co/ubuntu-server-16-06-on-raspberry-pi-3-via-terraform-93dccaef5ddb
 title: Ubuntu Server 16.04 on Raspberry Pi 3 via Terraform
-subtitle: In this tutorial you will find how to setup latest Ubuntu Classic server 16.04 and automate process as much as possible. Solve two issues…
+subtitle: In this tutorial you will find how to setup latest Ubuntu Classic server
+  16.04 and automate process as much as possible. Solve two issues…
 slug: ubuntu-server-16-06-on-raspberry-pi-3-via-terraform
-description: 
+description: ""
 tags: raspberry-pi,terraform,ubuntu,arm,tutorial
 author: Michael Nikitochkin
 username: miry
