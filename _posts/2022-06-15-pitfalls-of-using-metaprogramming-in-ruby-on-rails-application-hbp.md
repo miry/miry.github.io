@@ -5,6 +5,17 @@ title: Pitfalls of using metaprogramming in Ruby on Rails application
 slug: pitfalls-of-using-metaprogramming-in-ruby-on-rails-application-hbp
 description: Do you know that metaprogramming is easy to add but hard to support? Developers underestimated risks...
 tags: ruby, programming, beginners
+
+
+layout: post
+current: post
+cover:  assets/images/welcome.jpg
+navigation: True
+date: 2017-07-27 10:00:00
+tags: [Getting started]
+class: post-template
+subclass: 'post'
+author: ghost
 ---
 
 ![Cover image][img_ref_cover_image]

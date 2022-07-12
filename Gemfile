@@ -6,6 +6,10 @@ gem "webrick"
 gem "jekyll"
 
 group :jekyll_plugins do
-  gem "jekyll-theme-minimal"
-  gem "minima"
+  # gem "jekyll-theme-minimal"
+  # gem "minima"
+  # gem "jasper2"
+  gem "tale"
+  gem "jekyll-remote-theme"
+  gem "jekyll-paginate"
 end
