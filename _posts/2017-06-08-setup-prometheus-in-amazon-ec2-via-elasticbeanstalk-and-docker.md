@@ -6,7 +6,12 @@ subtitle: What is ElasticBeanstalk? It is one of Amazon Services that help devel
   to deploy applications. Now any cloud hosting wants to be…
 slug: setup-prometheus-in-amazon-ec2-via-elasticbeanstalk-and-docker
 description: ""
-tags: docker,amazon,aws,elastic-beanstalk,tutorial
+tags:
+- docker
+- amazon
+- aws
+- elastic-beanstalk
+- tutorial
 author: Michael Nikitochkin
 username: miry
 ---

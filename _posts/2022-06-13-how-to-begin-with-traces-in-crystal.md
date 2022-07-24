@@ -5,7 +5,10 @@ title: How to begin with Traces in Crystal
 subtitle: Primitve two code examples to start working with Traces
 slug: how-to-begin-with-traces-in-crystal
 description: ""
-tags: crystal-lang,opentelemetry,programming
+tags:
+- crystal-lang
+- opentelemetry
+- programming
 author: Michael Nikitochkin
 username: miry
 ---

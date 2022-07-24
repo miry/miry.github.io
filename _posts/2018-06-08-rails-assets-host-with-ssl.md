@@ -5,7 +5,11 @@ title: Rails Assets Host Trick
 subtitle: When we use simple assets server, such as
 slug: rails-assets-host-with-ssl
 description: ""
-tags: rails,assets,tutorial,ruby
+tags:
+- rails
+- assets
+- tutorial
+- ruby
 author: Michael Nikitochkin
 username: miry
 ---

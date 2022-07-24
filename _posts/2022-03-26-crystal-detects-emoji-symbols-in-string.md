@@ -6,7 +6,9 @@ subtitle: Problem is to identify unicode characters that has different byte size
   but single symbol in render. Such of the symbols Emoji.
 slug: crystal-detects-emoji-symbols-in-string
 description: ""
-tags: crystal-lang,emoji
+tags:
+- crystal-lang
+- emoji
 author: Michael Nikitochkin
 username: miry
 ---

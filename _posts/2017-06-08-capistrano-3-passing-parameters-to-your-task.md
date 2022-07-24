@@ -6,7 +6,12 @@ subtitle: The new way of passing parameters in Capistrano v3 is to use the same 
   as Rake (in some sort Capistrano 3 is totally based on…
 slug: capistrano-3-passing-parameters-to-your-task
 description: ""
-tags: ruby-on-rails,capistrano,testing,deployment,ruby
+tags:
+- ruby-on-rails
+- capistrano
+- testing
+- deployment
+- ruby
 author: Michael Nikitochkin
 username: miry
 ---

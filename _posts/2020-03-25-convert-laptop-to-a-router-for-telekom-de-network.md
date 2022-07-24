@@ -6,7 +6,12 @@ subtitle: Set up a Linux machine as a WiFi router in a few steps. No luck with M
   OS devices.
 slug: convert-laptop-to-a-router-for-telekom-de-network
 description: ""
-tags: linux,telekom,pppoe,internet,router
+tags:
+- linux
+- telekom
+- pppoe
+- internet
+- router
 author: Michael Nikitochkin
 username: miry
 ---

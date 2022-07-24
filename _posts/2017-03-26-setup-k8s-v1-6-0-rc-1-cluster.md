@@ -6,7 +6,11 @@ subtitle: The light/simple kubernetes cluster could be done with kubeadm tool. I
   current day 2016.03.26, kubernetes v1.6.0 is not released. To…
 slug: setup-k8s-v1-6-0-rc-1-cluster
 description: ""
-tags: kubernetes,docker,tutorial,amazon-web-services
+tags:
+- kubernetes
+- docker
+- tutorial
+- amazon-web-services
 author: Michael Nikitochkin
 username: miry
 ---

@@ -5,7 +5,10 @@ title: Dockerfile for a Crystal application
 subtitle: Build a space-effective docker image for a Crystal application
 slug: dockerfile-for-a-crystal-application
 description: ""
-tags: crystal-lang,docker,alpine
+tags:
+- crystal-lang
+- docker
+- alpine
 author: Michael Nikitochkin
 username: miry
 ---

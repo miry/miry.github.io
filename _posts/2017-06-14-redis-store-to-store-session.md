@@ -6,7 +6,9 @@ subtitle: I use Redis to store session and cache. And when I try to cache some s
   values, I get an exception “TypeError (can’t dump TCPSocket)”…
 slug: redis-store-to-store-session
 description: ""
-tags: redis,cache
+tags:
+- redis
+- cache
 author: Michael Nikitochkin
 username: miry
 ---

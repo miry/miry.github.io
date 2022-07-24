@@ -6,7 +6,12 @@ subtitle: Using multiple MRI ruby versions is not very hard. There are some ruby
   that have already been installed, and if you would like to…
 slug: run-tests-against-multiple-ruby-versions-on-circleci
 description: ""
-tags: ruby,docker,circleci,rails,ruby-on-rails
+tags:
+- ruby
+- docker
+- circleci
+- rails
+- ruby-on-rails
 author: Michael Nikitochkin
 username: miry
 ---

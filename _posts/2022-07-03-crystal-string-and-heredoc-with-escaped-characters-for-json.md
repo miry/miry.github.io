@@ -6,7 +6,9 @@ subtitle: 'TLDR: Clarify a problem why some JSON content could be not parsable v
   directives and how to fix it'
 slug: crystal-string-and-heredoc-with-escaped-characters-for-json
 description: ""
-tags: crystal-lang,json
+tags:
+- crystal-lang
+- json
 author: Michael Nikitochkin
 username: miry
 ---

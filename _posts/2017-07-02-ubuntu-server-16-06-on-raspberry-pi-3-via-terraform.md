@@ -6,7 +6,12 @@ subtitle: In this tutorial you will find how to setup latest Ubuntu Classic serv
   16.04 and automate process as much as possible. Solve two issues…
 slug: ubuntu-server-16-06-on-raspberry-pi-3-via-terraform
 description: ""
-tags: raspberry-pi,terraform,ubuntu,arm,tutorial
+tags:
+- raspberry-pi
+- terraform
+- ubuntu
+- arm
+- tutorial
 author: Michael Nikitochkin
 username: miry
 ---

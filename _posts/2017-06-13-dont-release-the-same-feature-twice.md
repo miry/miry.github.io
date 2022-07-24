@@ -6,7 +6,9 @@ subtitle: I do not like bureaucracy, but I can not live without it. That’s why
   integrated Changelog to the project. After a few deploys, I…
 slug: dont-release-the-same-feature-twice
 description: ""
-tags: git,gitflow
+tags:
+- git
+- gitflow
 author: Michael Nikitochkin
 username: miry
 ---

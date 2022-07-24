@@ -6,7 +6,12 @@ subtitle: In the article Kubernetes 1.6.1 Authentication via Google I explained 
   to create Google Application and generate kubernetes token. I…
 slug: minikube-1-7-0-with-openid-and-rbac
 description: ""
-tags: kubernetes,minikube,openid-connect,devops,google-cloud-platform
+tags:
+- kubernetes
+- minikube
+- openid-connect
+- devops
+- google-cloud-platform
 author: Michael Nikitochkin
 username: miry
 ---

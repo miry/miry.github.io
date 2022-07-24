@@ -6,7 +6,8 @@ subtitle: If you have problem with sending XHR requests from different domains, 
   will be problematic to get content, because
 slug: allow-multiple-access-control-requests-for-rails
 description: ""
-tags: cors
+tags:
+- cors
 author: Michael Nikitochkin
 username: miry
 ---

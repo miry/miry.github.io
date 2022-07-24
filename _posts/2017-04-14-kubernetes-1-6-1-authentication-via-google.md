@@ -6,7 +6,12 @@ subtitle: My notes how to use Google Accounts with Kubernetes cluster with Role 
   Access-Control (RBAC) authorization mode.
 slug: kubernetes-1-6-1-authentication-via-google
 description: ""
-tags: kubernetes,docker,openid-connect,google-cloud-platform,tutorial
+tags:
+- kubernetes
+- docker
+- openid-connect
+- google-cloud-platform
+- tutorial
 author: Michael Nikitochkin
 username: miry
 ---

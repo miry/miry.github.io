@@ -6,7 +6,10 @@ subtitle: It is interesting to analyze how a data structure has a different perf
   based on number of items or the way of implementation…
 slug: visualize-go-app-benchmarking
 description: ""
-tags: golang,benchmark,google-charts
+tags:
+- golang
+- benchmark
+- google-charts
 author: Michael Nikitochkin
 username: miry
 ---

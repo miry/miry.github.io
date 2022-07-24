@@ -5,7 +5,11 @@ title: Generate Kubernetes client certificates
 subtitle: TL;DR Use kubeadm tool on your local machine to generate certificates
 slug: generate-kubernetes-client-certificates
 description: ""
-tags: kubernetes,kubeadm,ssl-certificate,macos
+tags:
+- kubernetes
+- kubeadm
+- ssl-certificate
+- macos
 author: Michael Nikitochkin
 username: miry
 ---

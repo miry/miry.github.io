@@ -6,7 +6,9 @@ subtitle: Ever wonder how many colors exist in your project? Do you have strict 
   guides kindly prepared by the design lead? How many PSDs did…
 slug: revise-your-stylesheets-part-1-color-scheme
 description: ""
-tags: web-development,css
+tags:
+- web-development
+- css
 author: Michael Nikitochkin
 username: miry
 ---

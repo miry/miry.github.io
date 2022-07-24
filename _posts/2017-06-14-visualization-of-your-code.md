@@ -6,7 +6,8 @@ subtitle: 'Working at long and big projects, it is fun to see on a release date 
   this project was built: who worked at a particular part; when a…'
 slug: visualization-of-your-code
 description: ""
-tags: homebrew
+tags:
+- homebrew
 author: Michael Nikitochkin
 username: miry
 ---

@@ -6,7 +6,11 @@ subtitle: In rare cases, it happens that disk is full, and usually, it happens n
   in right time. No worries, AWS supports hot expanding disk for EBS…
 slug: resize-amazon-ebs-volumes-without-a-reboot
 description: ""
-tags: aws,terraform,be,xf
+tags:
+- aws
+- terraform
+- be
+- xf
 author: Michael Nikitochkin
 username: miry
 ---

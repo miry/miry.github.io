@@ -5,7 +5,8 @@ title: Import Huge Data for Rails
 subtitle: 'I wrote a simple rake task for dump data from DB to CSV file:'
 slug: import-huge-data-for-rails
 description: ""
-tags: ruby-on-rails
+tags:
+- ruby-on-rails
 author: Michael Nikitochkin
 username: miry
 ---

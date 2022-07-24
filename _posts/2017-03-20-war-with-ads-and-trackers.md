@@ -6,7 +6,9 @@ subtitle: My story begins with wish to see pure content of a new page in 2 secon
   many many years ago. As young padawan I tried with small stuff —…
 slug: war-with-ads-and-trackers
 description: ""
-tags: ad-blocking,gist
+tags:
+- ad-blocking
+- gist
 author: Michael Nikitochkin
 username: miry
 ---

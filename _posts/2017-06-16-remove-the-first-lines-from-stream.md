@@ -6,7 +6,8 @@ subtitle: I am not a linux hacker, so I wasted a lot of time trying to find a so
   to strip first lines from output stream. The first my solution…
 slug: remove-the-first-lines-from-stream
 description: ""
-tags: linux
+tags:
+- linux
 author: Michael Nikitochkin
 username: miry
 ---

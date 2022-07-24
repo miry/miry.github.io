@@ -6,7 +6,12 @@ subtitle: We will learn how to create a disk image base on a remote iso disk ima
   Auto install packages and configure a virtual machine with a…
 slug: how-to-automate-building-local-virtual-machines-with-packer
 description: Tutorial how to use packer with Qemu
-tags: packers,qemu,automation,linux,continuous-integration
+tags:
+- packers
+- qemu
+- automation
+- linux
+- continuous-integration
 author: Michael Nikitochkin
 username: miry
 ---

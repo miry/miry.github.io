@@ -6,7 +6,10 @@ subtitle: Handle errors on upgrade of kubernetes cluster from v1.11-beta.2 to v1
 slug: kubernetes-v1-11-requires-cri
 description: On upgrade of kubernetes cluster from v1.11-beta.2 to v1.11-rc.1, there
   is a missed crictl file.
-tags: kubernetes,cri,kubeadm
+tags:
+- kubernetes
+- cri
+- kubeadm
 author: Michael Nikitochkin
 username: miry
 ---

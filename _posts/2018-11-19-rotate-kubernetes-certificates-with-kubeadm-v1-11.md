@@ -5,7 +5,12 @@ title: Rotate Kubernetes certificates with Kubeadm v1.11
 subtitle: The way to update expired certificates for Kubernetes masters
 slug: rotate-kubernetes-certificates-with-kubeadm-v1-11
 description: TL;DR Use kubeadm tool on your local machine to rotate certificates
-tags: docker,kubernetes,kubeadm,certificate,devops
+tags:
+- docker
+- kubernetes
+- kubeadm
+- certificate
+- devops
 author: Michael Nikitochkin
 username: miry
 ---

@@ -6,7 +6,8 @@ subtitle: Before each project we check new versions of favorite Ruby web servers
   choose which is the best.
 slug: simple-benchmarking-rack-web-server
 description: ""
-tags: ruby
+tags:
+- ruby
 author: Michael Nikitochkin
 username: miry
 ---

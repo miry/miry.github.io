@@ -6,7 +6,8 @@ subtitle: Sometimes we need to define a dynamic template before defining variabl
   used in the template. Let me show a few examples how to solve this…
 slug: simple-dynamic-template
 description: ""
-tags: ruby
+tags:
+- ruby
 author: Michael Nikitochkin
 username: miry
 ---

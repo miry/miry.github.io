@@ -6,7 +6,11 @@ subtitle: I have encountered a problem with getting access to the private local 
   which available from the local machine. And I need to write…
 slug: netcat-with-ssh-port-forwarding
 description: ""
-tags: docker,tutorial,linux,terminal
+tags:
+- docker
+- tutorial
+- linux
+- terminal
 author: Michael Nikitochkin
 username: miry
 ---
