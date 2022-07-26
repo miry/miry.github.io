@@ -29,13 +29,13 @@ I0623 08:00:06.907182    1703 kernel_validator.go:96] Validating kernel config
   [ERROR FileExisting-crictl]: crictl not found in system path
 ```
 
-After a small investigation I found [github pull request ](https://github.com/kubernetes/kubernetes/pull/64836/files)that adds a new package to arsenal, before I required to install via golang.
+After a small investigation I found [github pull request](https://github.com/kubernetes/kubernetes/pull/64836/files) that adds a new package to arsenal, before I required to install via golang.
 
 Welcome to `yum install -y cri-tools`. Updated terraform modules to preinstall CRI: [https://github.com/jetthoughts/infrastructure/commit/a783f4dd4382772cce0b86c20bdc2193d4fafa0f](https://github.com/jetthoughts/infrastructure/commit/a783f4dd4382772cce0b86c20bdc2193d4fafa0f).
 
 ![][image_ref_MSoxOTFqWjRQNkwtdUdwWC03RnMxekdnLnBuZw==]
 
-**Michael Nikitochkin* **is a Lead Software Engineer at [PubNative](https://pubnative.net/). Follow him on *[LinkedIn](https://www.linkedin.com/in/michaelnikitochkin/) *or [GitHub](https://github.com/miry).*
+**Michael Nikitochkin** *is a Lead Software Engineer. Follow him on [LinkedIn](https://www.linkedin.com/in/michaelnikitochkin/) or [GitHub](https://github.com/miry).*
 
 > If you enjoyed this story, we recommend reading our [latest tech stories](https://jtway.co/latest) and [trending tech stories](https://jtway.co/trending).
 

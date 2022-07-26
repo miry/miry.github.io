@@ -995,7 +995,7 @@ Sample project in [Github](https://github.com/miry/prometheus_on_eb)
 
 * [Getting Started Using Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/GettingStarted.html)
 
-**Michael Nikitochkin* **is a Lead Software Engineer at [PubNative](https://pubnative.net/). Follow him on *[LinkedIn](https://www.linkedin.com/in/michaelnikitochkin/) *or [GitHub](https://github.com/miry).*
+**Michael Nikitochkin** *is a Lead Software Engineer. Follow him on [LinkedIn](https://www.linkedin.com/in/michaelnikitochkin/) or [GitHub](https://github.com/miry).*
 
 > If you enjoyed this story, we recommend reading our [latest tech stories](https://jtway.co/latest) and [trending tech stories](https://jtway.co/trending).
 

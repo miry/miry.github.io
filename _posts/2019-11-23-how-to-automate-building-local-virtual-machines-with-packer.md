@@ -309,7 +309,7 @@ For more on **Packer**, see more [guides on Packer.io](https://www.packer.io/gui
 
 ![That’s all folks!][image_ref_MSppaWZxZm5xb3Jxa1pWTXBDeXExQmpBLnBuZw==]
 
-**Michael Nikitochkin* **is a Lead Software Engineer. Follow him on *[LinkedIn](https://www.linkedin.com/in/michaelnikitochkin/) *or [GitHub](https://github.com/miry).*
+**Michael Nikitochkin** *is a Lead Software Engineer. Follow him on [LinkedIn](https://www.linkedin.com/in/michaelnikitochkin/) or [GitHub](https://github.com/miry).*
 
 > *If you enjoyed this story, we recommend reading our [latest tech stories](https://jtway.co/latest) and [trending tech stories](https://jtway.co/trending).*
 

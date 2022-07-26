@@ -85,6 +85,7 @@ end
 
 ```
 > *[01_extract_crt.rb view raw](https://gist.githubusercontent.com/miry/9fbb8947510294c25285bda2a6e11900/raw/c4fef7a1bedf55ec4a088c8a6d42fc8ab6013b80/01_extract_crt.rb)*
+
 ```
 #!/bin/bash
 # Would ask for password to encrypt the key
@@ -131,7 +132,7 @@ $ open kubecfg.p12
 
 ![][image_ref_MSoxOTFqWjRQNkwtdUdwWC03RnMxekdnLnBuZw==]
 
-**Michael Nikitochkin* **is a Lead Software Engineer at [PubNative](https://pubnative.net/). Follow him on *[LinkedIn](https://www.linkedin.com/in/michaelnikitochkin/) *or [GitHub](https://github.com/miry).*
+**Michael Nikitochkin** *is a Lead Software Engineer. Follow him on [LinkedIn](https://www.linkedin.com/in/michaelnikitochkin/) or [GitHub](https://github.com/miry).*
 
 > If you enjoyed this story, we recommend reading our [latest tech stories](https://jtway.co/latest) and [trending tech stories](https://jtway.co/trending).
 

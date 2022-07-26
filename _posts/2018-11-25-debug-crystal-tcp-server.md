@@ -85,7 +85,7 @@ Let’s send 2 bytes from the client to the server, and get a response. **Wiresh
 
 ![Send and Receive packages][image_ref_MSpfS2p6TW14TGdFN1NjM0dpRzllM3JRLnBuZw==]
 
-First package `TCP 78 57464 → 3000 [PSH, ACK] Seq=1 Ack=1 Win=407776 Len=2 `has data: `310a` that represents character `1` and new line. Next package from the server `TCP 76 3000 → 57464 [ACK] Seq=1 Ack=3 Win=407776 Len=0` confirms to the client, that the package with `Seq=1` was received. 4 other packets related to the server’s response with the same behavior. But why 4? After analyzing the first package’s data, found that it send just character `1` and in next send package there is a new line byte.
+First package `TCP 78 57464 → 3000 [PSH, ACK] Seq=1 Ack=1 Win=407776 Len=2` has data: `310a` that represents character `1` and new line. Next package from the server `TCP 76 3000 → 57464 [ACK] Seq=1 Ack=3 Win=407776 Len=0` confirms to the client, that the package with `Seq=1` was received. 4 other packets related to the server’s response with the same behavior. But why 4? After analyzing the first package’s data, found that it send just character `1` and in next send package there is a new line byte.
 
 I would like to send a message in one packet. Started investigation how TCP communication implemented in Crystal. Maybe after reading the sources will find a solution.
 
@@ -141,7 +141,7 @@ Now we learned how to build a server application, without big problems and time 
 
 ![That’s all Folks][image_ref_MSppaWZxZm5xb3Jxa1pWTXBDeXExQmpBLnBuZw==]
 
-**Michael Nikitochkin* **is a Lead Software Engineer at [PubNative](https://pubnative.net/). Follow him on *[LinkedIn](https://www.linkedin.com/in/michaelnikitochkin/) *or [GitHub](https://github.com/miry).*
+**Michael Nikitochkin** *is a Lead Software Engineer. Follow him on [LinkedIn](https://www.linkedin.com/in/michaelnikitochkin/) or [GitHub](https://github.com/miry).*
 
 > If you enjoyed this story, we recommend reading our [latest tech stories](https://jtway.co/latest) and [trending tech stories](https://jtway.co/trending).
 

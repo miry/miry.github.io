@@ -26,7 +26,7 @@ I have self-hosted **Kubernetes** setup via `kubeadm` on AWS. How to setup the *
 
 Thanks to Micah Hausle’s article [Reduce administrative toil with Kubernetes 1.3](https://www.skuid.com/blog/reduce-administrative-toil-with-kubernetes-1-3/) and based on it I created a step list before setup a new cluster:
 
-**Step 1: [Creating a Google API Console project and client ID**](https://developers.google.com/identity/sign-in/web/devconsole-project)
+**Step 1: [Creating a Google API Console project and client ID](https://developers.google.com/identity/sign-in/web/devconsole-project)**
 - Go to [https://console.developers.google.com/projectselector/apis/library](https://console.developers.google.com/projectselector/apis/library)
 - From the project drop-down, select an existing project, or create a new one by selecting **Create a new project**
 - In the sidebar under “**API Manager**”, select **Credentials**, then select the **OAuth consent screen** tab.
@@ -48,7 +48,7 @@ Thanks to Micah Hausle’s article [Reduce administrative toil with Kubernetes 1
 - From the resulting **OAuth client dialog box**, copy the **Client ID**. The **Client ID** lets your app access enabled Google APIs.
 - Download the client secret JSON file of the credentials.
 
-**Step 2: [Setup a Kubernetes cluster**](https://medium.com/notes-and-tips-in-full-stack-development/setup-k8s-v1-6-0-rc-1-cluster-b4cc7749973f)
+**Step 2: [Setup a Kubernetes cluster](https://medium.com/notes-and-tips-in-full-stack-development/setup-k8s-v1-6-0-rc-1-cluster-b4cc7749973f)**
 
 After we initialized the master instance, need to update the `kube api server` arguments in the `/etc/kubernetes/manifests/kube-apiserver.yaml`. Each argument should be on a separate line. More details about OIDC attributes [here](https://kubernetes.io/docs/admin/authentication/#configuring-the-api-server).
 
@@ -64,7 +64,7 @@ NAME                         STATUS    AGE       VERSION
 ip-10-9-11-30.ec2.internal   Ready     15m       v1.6.1
 ```
 
-**Step 3: [Generate local user credentials**](https://github.com/micahhausler/k8s-oidc-helper)
+**Step 3: [Generate local user credentials](https://github.com/micahhausler/k8s-oidc-helper)**
 
 *3.1 Install the k8s helper on the client machine:*
 
@@ -143,13 +143,13 @@ NAME                         STATUS    AGE       VERSION
 ip-10-9-11-30.ec2.internal   Ready     20m       v1.6.1
 ```
 
-**OIDC** authorization only works for `kubectl`. I could not find easy way to use it with **Kubernetes UI **or any other services inside a cluster.
+**OIDC** authorization only works for `kubectl`. I could not find easy way to use it with **Kubernetes UI** or any other services inside a cluster.
 
 Next steps for you: *add a new user and grant permissions per group*.
 
 ![][image_ref_MSpxMTRFWERtYjhFb2Nqa3NuOVJOZC1nLnBuZw==]
 
-**Michael Nikitochkin*** is a Lead Software Engineer at [PubNative](https://pubnative.net/). Follow him on *[LinkedIn](https://www.linkedin.com/in/michaelnikitochkin/) *or [GitHub](https://github.com/miry).*
+**Michael Nikitochkin** *is a Lead Software Engineer. Follow him on [LinkedIn](https://www.linkedin.com/in/michaelnikitochkin/) or [GitHub](https://github.com/miry).*
 
 > If you enjoyed this story, we recommend reading our [latest tech stories](https://jtway.co/latest) and [trending tech stories](https://jtway.co/trending).
 

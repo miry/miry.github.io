@@ -34,7 +34,6 @@ namespace :task do
   end
 end
 ```
-> *[capistrano_rake.rb view raw](https://gist.githubusercontent.com/marchi-martius/b6e1f3c931c62c783c53c76e9ddf162b/raw/7e036104e68065e7d42b99711fdfbf846bf882fe/capistrano_rake.rb)*
 
 and now we can run `rake db:migrate` on remote hosts:
 
@@ -49,7 +48,7 @@ I used the quotes, because for `zsh` the brackets are used for some shell featur
 
 Some more information with good examples of passing parameters to rake task can be found [here](http://viget.com/extend/protip-passing-parameters-to-your-rake-tasks).
 
-**Michael Nikitochkin* **is a Lead Software Engineer at [PubNative](https://pubnative.net/). Follow him on *[LinkedIn](https://www.linkedin.com/in/michaelnikitochkin/) *or [GitHub](https://github.com/miry).*
+**Michael Nikitochkin** *is a Lead Software Engineer. Follow him on [LinkedIn](https://www.linkedin.com/in/michaelnikitochkin/) or [GitHub](https://github.com/miry).*
 
 > If you enjoyed this story, we recommend reading our [latest tech stories](https://jtway.co/latest) and [trending tech stories](https://jtway.co/trending).
 

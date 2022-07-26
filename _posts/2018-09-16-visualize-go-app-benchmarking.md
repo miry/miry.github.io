@@ -79,6 +79,7 @@ func benchmarkAccessStructure(b *testing.B, size int) {
 
 ```
 > *[access_test.go view raw](https://gist.githubusercontent.com/miry/4e207a6ca3e0065fc1f1a08ec3938b24/raw/e7d88222918acfaa0761d0ebb97d631661da343c/access_test.go)*
+
 ```
 $ go test -bench=.
 goos: darwin
@@ -117,7 +118,7 @@ This chart could be embedded to your page with a code snippet that available on 
 
 ![][image_ref_MSoxOTFqWjRQNkwtdUdwWC03RnMxekdnLnBuZw==]
 
-**Michael Nikitochkin* **is a Lead Software Engineer at [PubNative](https://pubnative.net/). Follow him on *[LinkedIn](https://www.linkedin.com/in/michaelnikitochkin/) *or [GitHub](https://github.com/miry).*
+**Michael Nikitochkin** *is a Lead Software Engineer. Follow him on [LinkedIn](https://www.linkedin.com/in/michaelnikitochkin/) or [GitHub](https://github.com/miry).*
 
 > If you enjoyed this story, we recommend reading our [latest tech stories](https://jtway.co/latest) and [trending tech stories](https://jtway.co/trending).
 

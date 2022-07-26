@@ -73,7 +73,7 @@ Certificate:
 ...
 ```
 
-To make the `kube-apiserver` process requests from current `kubelet` we need to update *apiserver certificate and key* along with *front-proxy-ca certificate and key*, while *ca certificate and key* as well as *sa key *should be the same. `kubelet` client certificates could also be the same, as `kubelet(`starting from version 1.8) does a rotation of certificates in the background.
+To make the `kube-apiserver` process requests from current `kubelet` we need to update *apiserver certificate and key* along with *front-proxy-ca certificate and key*, while *ca certificate and key* as well as *sa key* should be the same. `kubelet` client certificates could also be the same, as `kubelet(`starting from version 1.8) does a rotation of certificates in the background.
 
 ```
 $ rm pki/{apiserver*,front-proxy-client*}
@@ -113,7 +113,7 @@ $ docker run --rm -v $(pwd)/pki:/etc/kubernetes \
 
 ![][image_ref_MSppaWZxZm5xb3Jxa1pWTXBDeXExQmpBLnBuZw==]
 
-**Michael Nikitochkin* **is a Lead Software Engineer at [PubNative](https://pubnative.net/). Follow him on *[LinkedIn](https://www.linkedin.com/in/michaelnikitochkin/) *or [GitHub](https://github.com/miry).*
+**Michael Nikitochkin** *is a Lead Software Engineer. Follow him on [LinkedIn](https://www.linkedin.com/in/michaelnikitochkin/) or [GitHub](https://github.com/miry).*
 
 > If you enjoyed this story, we recommend reading our [latest tech stories](https://jtway.co/latest) and [trending tech stories](https://jtway.co/trending).
 
