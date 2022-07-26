@@ -167,6 +167,7 @@ end
 
 ```
 > *[01_extract_crt.rb view raw](https://gist.githubusercontent.com/miry/9fbb8947510294c25285bda2a6e11900/raw/c4fef7a1bedf55ec4a088c8a6d42fc8ab6013b80/01_extract_crt.rb)*
+
 ```
 #!/bin/bash
 # Would ask for password to encrypt the key
