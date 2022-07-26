@@ -84,7 +84,6 @@ ExecStart=
 ExecStart=/usr/bin/kubelet \$KUBELET_KUBECONFIG_ARGS \$KUBELET_SYSTEM_PODS_ARGS \$KUBELET_NETWORK_ARGS \$KUBELET_DNS_ARGS \$KUBELET_AUTHZ_ARGS \$KUBELET_EXTRA_ARGS
 EOF
 ```
-> *[10-kubeadm.conf.sh view raw](https://gist.githubusercontent.com/miry/6d00754820f111647ec773ebef2dccd5/raw/f7822901a9793c192fb90a526e2749a2b36d64bb/10-kubeadm.conf.sh)*
 
 The difference to original, is that I added `--cgroup-driver=systemd` to `kubelet`. Docker and Kubernetes should have same `cgroup`.
 
@@ -220,7 +219,7 @@ After this command the UI should work properly.
 
 > That’s all folks!
 
-**Michael Nikitochkin* **is a Lead Software Engineer at [PubNative](https://pubnative.net/). Follow him on *[LinkedIn](https://www.linkedin.com/in/michaelnikitochkin/) *or [GitHub](https://github.com/miry).*
+**Michael Nikitochkin** *is a Lead Software Engineer. Follow him on [LinkedIn](https://www.linkedin.com/in/michaelnikitochkin/) or [GitHub](https://github.com/miry).*
 
 > If you enjoyed this story, we recommend reading our [latest tech stories](https://jtway.co/latest) and [trending tech stories](https://jtway.co/trending).
 
