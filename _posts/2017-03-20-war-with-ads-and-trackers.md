@@ -47,11 +47,7 @@ I was growing up. Started use services to keep secrets and financial information
 /ip dns static add address=127.0.0.1 ttl=600w name=".*\\.adexprt\\.com" 
 /ip dns static add address=127.0.0.1 ttl=600w name=".*\\.exoclick\\.com"
 /ip dns static add address=127.0.0.1 ttl=600w name="mr.mention.net"
-
-
 ```
-> *[mikrotik_dns_static_ads_blocker view raw](https://gist.githubusercontent.com/miry/8302258/raw/3b1e786022dcfac78f5d78a4c2209c44935ca609/mikrotik_dns_static_ads_blocker)*
-Sample of my Blocking List
 
 It was good solution, it supports wildcard domain names, Web interface and Telnet. I setup VPN tunnel to the router and route traffic through it. It works awesome. As **Ghostery** idea, block most of trackers and analytics domains. One minus of this solution: you could not block specific place on the page as **AdBlocker Addon**. If a service wrap all ads elements through its domain, this solution was useless.
 
