@@ -33,7 +33,7 @@ puts subject.chars
 > ['🇺', '🇦', ' ', 'U', 'k', 'r', 'a', 'i', 'n', 'e']
 ```
 
-To help developers to skip building a big *Regexp[²*](https://www.unicode.org/reports/tr51/#EBNF_and_Regex) to detect characters, introduced *String::Grapheme*[¹](https://crystal-lang.org/api/1.3.2/String/Grapheme.html).
+To help developers to skip building a big *Regexp[²](https://www.unicode.org/reports/tr51/#EBNF_and_Regex)* to detect characters, introduced *String::Grapheme*[¹](https://crystal-lang.org/api/1.3.2/String/Grapheme.html).
 
 ```
 puts subject.grapheme_size
@@ -47,7 +47,7 @@ puts subject.graphemes
 
 The result shows exactly the number of symbols to be rendered.
 
-Example how *Grapheme *could be used. Here is original code:
+Example how *Grapheme* could be used. Here is original code:
 
 ```
 result = ""
