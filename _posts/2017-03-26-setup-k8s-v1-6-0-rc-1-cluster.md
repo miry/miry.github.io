@@ -17,7 +17,7 @@ username: miry
 
 # Setup K8S v1.6.0-rc.1 cluster
 
-The light/simple kubernetes cluster could be done with `[kubeadm](https://kubernetes.io/docs/getting-started-guides/kubeadm/)` tool. In current day 2016.03.26, kubernetes v1.6.0 is not released. To deploy a release candidate for playing I met with few issues.
+The light/simple kubernetes cluster could be done with [kubeadm](https://kubernetes.io/docs/getting-started-guides/kubeadm/) tool. In current day 2016.03.26, kubernetes v1.6.0 is not released. To deploy a release candidate for playing I met with few issues.
 
 Where and What is my playground:
 
@@ -31,7 +31,7 @@ All my machines I setup using packer(to build images) and terraform. For the art
 
 # Prepare the packages
 
-For stable kubernetes builds I usually use original repo`yum.kubernetes.io` from [https://kubernetes.io/docs/getting-started-guides/kubeadm/](https://kubernetes.io/docs/getting-started-guides/kubeadm/). Here is the first problem: I could not find release candidate builds in the repo. I suppose it should be somewhere, but it was not my day to find it. Found the beautiful release builder [https://github.com/kubernetes/release](https://github.com/kubernetes/release). Small changes in the `[kubelet.spec](https://github.com/kubernetes/release/blob/master/rpm/kubelet.spec)` to provide exactly my required build version:
+For stable kubernetes builds I usually use original repo `yum.kubernetes.io` from [https://kubernetes.io/docs/getting-started-guides/kubeadm/](https://kubernetes.io/docs/getting-started-guides/kubeadm/). Here is the first problem: I could not find release candidate builds in the repo. I suppose it should be somewhere, but it was not my day to find it. Found the beautiful release builder [https://github.com/kubernetes/release](https://github.com/kubernetes/release). Small changes in the [kubelet.spec](https://github.com/kubernetes/release/blob/master/rpm/kubelet.spec) to provide exactly my required build version:
 
 ```
 %global KUBE_VERSION 1.6.0-rc.1
@@ -41,8 +41,8 @@ For stable kubernetes builds I usually use original repo`yum.kubernetes.io` from
 then replaced all `Version: %{KUBE_VERSION}` with `Version: %{KUBE_VERSION_MAJOR}` . Because of [https://github.com/kubernetes/release/issues/290](https://github.com/kubernetes/release/issues/290)
 
 ```
-cd ./rpm
-./docker-build.sh
+$ cd ./rpm
+$ ./docker-build.sh
 ```
 
 And Wuala: we have nice rpms in the output folder:
@@ -60,19 +60,15 @@ All nodes (master and slaves) in the cluster should have same versions of kubern
 
 ```
 # https://packagecloud.io/miry/kubernetes/install
-curl -s https://packagecloud.io/install/repositories/miry/kubernetes/script.rpm.sh | sudo bash
-```
-
-```
-sudo setenforce 0 || true # Required for K8S
-yum install -y docker kubelet kubeadm kubectl kubernetes-cni
-
+$ curl -s https://packagecloud.io/install/repositories/miry/kubernetes/script.rpm.sh | sudo bash
+$ sudo setenforce 0 || true # Required for K8S
+$ yum install -y docker kubelet kubeadm kubectl kubernetes-cni
 ```
 
 There is changes in the `systemd` service file for `kubelet`.
 
 ```
-cat <<EOF > /etc/systemd/system/kubelet.service.d/10-kubeadm.conf
+$ cat <<EOF > /etc/systemd/system/kubelet.service.d/10-kubeadm.conf
 [Service]
 Environment="KUBELET_KUBECONFIG_ARGS=--kubeconfig=/etc/kubernetes/kubelet.conf --require-kubeconfig=true"
 Environment="KUBELET_SYSTEM_PODS_ARGS=--pod-manifest-path=/etc/kubernetes/manifests --allow-privileged=true"
@@ -90,11 +86,8 @@ The difference to original, is that I added `--cgroup-driver=systemd` to `kubele
 Enable and run services:
 
 ```
-sudo systemctl enable docker && sudo systemctl start docker
-```
-
-```
-sudo systemctl enable kubelet && sudo systemctl start kubelet
+$ sudo systemctl enable docker && sudo systemctl start docker
+$ sudo systemctl enable kubelet && sudo systemctl start kubelet
 ```
 
 # Master
@@ -102,7 +95,7 @@ sudo systemctl enable kubelet && sudo systemctl start kubelet
 The kubeadm is still in development and as I expected there are changes in the flags and options.
 
 ```
-kubeadm init --apiserver-advertise-address=$NODE_PRIVATE_IP --apiserver-cert-extra-sans="my.example.com" --kubernetes-version="v1.6.0-rc.1"
+$ kubeadm init --apiserver-advertise-address=$NODE_PRIVATE_IP --apiserver-cert-extra-sans="my.example.com" --kubernetes-version="v1.6.0-rc.1"
 ```
 
 Besides changes in the flags, now `kubeadm` waits until node would be alive and checking for `DNS` pod. That is strange, because the pod could not work without any [Network addons](https://kubernetes.io/docs/admin/addons/). Open a new connection I started to install network addons. But here also have some changes. So
@@ -122,7 +115,7 @@ To access from local computer copy the file `/etc/kubernetes/admin.conf` to `~/.
 In the slave joins also changed a bit. Now you need always provide the discovery port. Kubernetes API server secure port now is 6443. The typical join would be:
 
 ```
-kubeadm join --token="${k8s_token}" ${master_ip}:6443
+$ kubeadm join --token="${k8s_token}" ${master_ip}:6443
 ```
 
 # Dashboard
