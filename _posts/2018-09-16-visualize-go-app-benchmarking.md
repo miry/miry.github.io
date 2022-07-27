@@ -26,7 +26,7 @@ I was looking for a universal solution to show charts and make empirical analysi
 $ bench -step i*10 -max 100000 -- app <N>
 ```
 
-In the end, I should see a [Google Chart](https://developers.google.com/chart/) with `Time/N` data. I was not able to find any tool to generate such charts though. However, I got some custom integrations with benchmark libs in `Ruby` and `Golang`, which can build charts based on `Benchmarks` results.
+In the end, I should see a [Google Chart](https://developers.google.com/chart/) with `Time/N` data. I could not able to find any tool to generate such charts, though. However, I got some custom integrations with benchmark libs in `Ruby` and `Golang`, which can build charts based on `Benchmarks` results.
 
 I want to draw your attention to one small tool available here: [https://github.com/codingberg/benchgraph](https://github.com/codingberg/benchgraph). The client part parse standard Go benchmark results and sends the data to a server. It uses the convention in benchmark names to build function result performance. Here is the example of benchmark code and output:
 
