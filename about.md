@@ -1,3 +1,15 @@
+---
 layout: post
+title: Michael Nikitochkin
+permalink: /about/
+---
 
-WIP
+Hi folks,
+
+I am a software and site reliability engineer, presently employed at Shopify. 
+Prior to this, I have gained experience working with prominent organizations such as
+[JetThoughts](https://www.jetthoughts.com/), [Railsware](https://railsware.com/), 
+[Applift](https://applift.com/), [PubNative](https://pubnative.net), and [Zalando](https://zalando.de/).
+
+My primary passion lies in the realm of Observability and Reliability within the context of large-scale systems.
+In my current role, I focus on Incident Management, taking on the role of an Incident Commander.
