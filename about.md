@@ -21,4 +21,4 @@ In my current role, I focus on Incident Management, taking on the role of an Inc
 
 ### Code
 
-* Personal, https://codeberg.org/miry and https://github.com/miry
+* Personal, [codeberg.org/miry](https://codeberg.org/miry) and [github.com/miry](https://github.com/miry)
