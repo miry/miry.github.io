@@ -26,4 +26,9 @@ task :run do
   sh "bundle exec jekyll serve"
 end
 
+desc "Open blog"
+task :open do
+  sh "open https://miry.github.io/"
+end
+
 task default: %i[run]
