@@ -6,9 +6,9 @@ subtitle: How simple to build a crystal binary from sources?
 slug: build-and-read-crystal
 description: ""
 tags:
-- crystals
 - programming
 - learning
+- crystal-lang
 author: Michael Nikitochkin
 username: miry
 ---

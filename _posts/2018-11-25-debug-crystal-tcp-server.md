@@ -6,9 +6,9 @@ subtitle: Learn how to debug TCP communications with Wireshark
 slug: debug-crystal-tcp-server
 description: ""
 tags:
-- crystals
 - wireshark
 - tcp
+- crystal-lang
 author: Michael Nikitochkin
 username: miry
 ---
