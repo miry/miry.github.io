@@ -6,8 +6,14 @@ plugins:
   - jekyll-remote-theme
   
 markdown: kramdown
-title: Miry's notes
-description: Collection of all my articles posted
+title: IMOC's stuff
+description: >-
+  Have fun with Crystal, Ruby, and Go.
+  "Simplicity is prerequisite for reliability"
+
+  Glory to Ukraine!
+  ПТН ПНХ!
+
 twitter_username: miry_sof
 github_username:  miry
 
