@@ -13,3 +13,12 @@ Prior to this, I have gained experience working with prominent organizations suc
 
 My primary passion lies in the realm of Observability and Reliability within the context of large-scale systems.
 In my current role, I focus on Incident Management, taking on the role of an Incident Commander.
+
+### Contact information
+
+* [@miry@mastodon.social](https://mastodon.social/@miry)
+* [Linkedin](https://www.linkedin.com/in/michaelnikitochkin/)
+
+### Code
+
+* Personal, https://codeberg.org/miry and https://github.com/miry
