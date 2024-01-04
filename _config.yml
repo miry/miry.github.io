@@ -4,7 +4,7 @@ paginate:   25
 plugins:
   - jekyll-paginate
   - jekyll-remote-theme
-  
+
 markdown: kramdown
 title: IMOC's stuff
 description: >-
@@ -22,3 +22,6 @@ defaults:
       path: ""
     values:
       layout: post
+
+author:
+  name: Michael Nikitochkin
