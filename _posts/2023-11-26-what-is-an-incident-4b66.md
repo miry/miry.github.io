@@ -14,6 +14,8 @@ tags:
 - incident
 - incidentresponse
 - incidentmanagemenent
+author: Michael Nikitochkin
+username: miry
 ---
 
 ![Cover image][img_ref_cover_image]

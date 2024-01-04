@@ -12,6 +12,8 @@ tags:
 - obs
 - streaming
 - screencasting
+author: Michael Nikitochkin
+username: miry
 ---
 
 ![Cover image][img_ref_cover_image]
