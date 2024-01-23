@@ -1,6 +1,6 @@
 ---
-url: https://jtway.co/rotate-kubernetes-certificates-with-kubeadm-v1-11-6a9bbb0a7da3
-canonical_url: https://jtway.co/rotate-kubernetes-certificates-with-kubeadm-v1-11-6a9bbb0a7da3
+url: https://medium.com/notes-and-tips-in-full-stack-development/rotate-kubernetes-certificates-with-kubeadm-v1-11-6a9bbb0a7da3
+canonical_url: https://medium.com/notes-and-tips-in-full-stack-development/rotate-kubernetes-certificates-with-kubeadm-v1-11-6a9bbb0a7da3
 title: Rotate Kubernetes certificates with Kubeadm v1.11
 subtitle: The way to update expired certificates for Kubernetes masters
 slug: rotate-kubernetes-certificates-with-kubeadm-v1-11

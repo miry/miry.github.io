@@ -1,6 +1,6 @@
 ---
-url: https://jtway.co/netcat-with-ssh-port-forwarding-148177b2e850
-canonical_url: https://jtway.co/netcat-with-ssh-port-forwarding-148177b2e850
+url: https://medium.com/notes-and-tips-in-full-stack-development/netcat-with-ssh-port-forwarding-148177b2e850
+canonical_url: https://medium.com/notes-and-tips-in-full-stack-development/netcat-with-ssh-port-forwarding-148177b2e850
 title: Netcat with SSH Port Forwarding
 subtitle: I have encountered a problem with getting access to the private local service
   which available from the local machine. And I need to write…

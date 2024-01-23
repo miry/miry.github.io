@@ -1,6 +1,6 @@
 ---
-url: https://jtway.co/setup-terraform-with-google-provider-for-dummies-7da1e302ca85
-canonical_url: https://jtway.co/setup-terraform-with-google-provider-for-dummies-7da1e302ca85
+url: https://medium.com/notes-and-tips-in-full-stack-development/setup-terraform-with-google-provider-for-dummies-7da1e302ca85
+canonical_url: https://medium.com/notes-and-tips-in-full-stack-development/setup-terraform-with-google-provider-for-dummies-7da1e302ca85
 title: Setup Terraform with Google Provider
 subtitle: This is article focused on routine steps how to start working with terraform
   and google cloud provider. For new clients/projects, we do the…

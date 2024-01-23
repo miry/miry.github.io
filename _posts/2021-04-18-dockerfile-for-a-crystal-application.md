@@ -1,6 +1,6 @@
 ---
-url: https://jtway.co/dockerfile-for-a-crystal-application-1e9db24efbc2
-canonical_url: https://jtway.co/dockerfile-for-a-crystal-application-1e9db24efbc2
+url: https://medium.com/notes-and-tips-in-full-stack-development/dockerfile-for-a-crystal-application-1e9db24efbc2
+canonical_url: https://medium.com/notes-and-tips-in-full-stack-development/dockerfile-for-a-crystal-application-1e9db24efbc2
 title: Dockerfile for a Crystal application
 subtitle: Build a space-effective docker image for a Crystal application
 slug: dockerfile-for-a-crystal-application

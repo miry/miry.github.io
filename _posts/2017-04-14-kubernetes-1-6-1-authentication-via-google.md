@@ -1,6 +1,6 @@
 ---
-url: https://jtway.co/kubernetes-auth-google-with-rbac-60a74787e6a5
-canonical_url: https://jtway.co/kubernetes-auth-google-with-rbac-60a74787e6a5
+url: https://medium.com/notes-and-tips-in-full-stack-development/kubernetes-auth-google-with-rbac-60a74787e6a5
+canonical_url: https://medium.com/notes-and-tips-in-full-stack-development/kubernetes-auth-google-with-rbac-60a74787e6a5
 title: Kubernetes 1.6.1 Authentication via Google
 subtitle: My notes how to use Google Accounts with Kubernetes cluster with Role Based
   Access-Control (RBAC) authorization mode.

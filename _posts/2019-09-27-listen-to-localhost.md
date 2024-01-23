@@ -1,6 +1,6 @@
 ---
-url: https://jtway.co/listen-to-localhost-eb0c2e36e1f5
-canonical_url: https://jtway.co/listen-to-localhost-eb0c2e36e1f5
+url: https://medium.com/notes-and-tips-in-full-stack-development/listen-to-localhost-eb0c2e36e1f5
+canonical_url: https://medium.com/notes-and-tips-in-full-stack-development/listen-to-localhost-eb0c2e36e1f5
 title: Listen to localhost
 subtitle: How many processes can listen on same port in localhost? I know the answer
   from school time, and it is ONE port per application.

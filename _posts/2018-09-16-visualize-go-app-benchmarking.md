@@ -1,6 +1,6 @@
 ---
-url: https://jtway.co/visualize-go-app-benchmarking-2a3be0169e26
-canonical_url: https://jtway.co/visualize-go-app-benchmarking-2a3be0169e26
+url: https://medium.com/notes-and-tips-in-full-stack-development/visualize-go-app-benchmarking-2a3be0169e26
+canonical_url: https://medium.com/notes-and-tips-in-full-stack-development/visualize-go-app-benchmarking-2a3be0169e26
 title: Visualize Go app benchmarking
 subtitle: It is interesting to analyze how a data structure has a different performance
   based on number of items or the way of implementation…

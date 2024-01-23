@@ -1,6 +1,6 @@
 ---
-url: https://jtway.co/convert-github-issue-to-pull-request-c624834835d8
-canonical_url: https://jtway.co/convert-github-issue-to-pull-request-c624834835d8
+url: https://medium.com/notes-and-tips-in-full-stack-development/convert-github-issue-to-pull-request-c624834835d8
+canonical_url: https://medium.com/notes-and-tips-in-full-stack-development/convert-github-issue-to-pull-request-c624834835d8
 title: Convert Github Issue to Pull request
 subtitle: Manage Github issues more effectively with command line tool.
 slug: convert-github-issue-to-pull-request

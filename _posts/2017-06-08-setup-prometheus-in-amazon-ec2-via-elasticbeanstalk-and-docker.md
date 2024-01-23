@@ -1,6 +1,6 @@
 ---
-url: https://jtway.co/setup-prometheus-in-amazon-ec2-via-elasticbeanstalk-and-docker-13ec426c21c0
-canonical_url: https://jtway.co/setup-prometheus-in-amazon-ec2-via-elasticbeanstalk-and-docker-13ec426c21c0
+url: https://medium.com/notes-and-tips-in-full-stack-development/setup-prometheus-in-amazon-ec2-via-elasticbeanstalk-and-docker-13ec426c21c0
+canonical_url: https://medium.com/notes-and-tips-in-full-stack-development/setup-prometheus-in-amazon-ec2-via-elasticbeanstalk-and-docker-13ec426c21c0
 title: Setup Prometheus in Amazon EC2 via ElasticBeanstalk and Docker
 subtitle: What is ElasticBeanstalk? It is one of Amazon Services that help developers
   to deploy applications. Now any cloud hosting wants to be…

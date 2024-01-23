@@ -1,6 +1,6 @@
 ---
-url: https://jtway.co/redis-store-to-store-session-78e0e089d702
-canonical_url: https://jtway.co/redis-store-to-store-session-78e0e089d702
+url: https://medium.com/notes-and-tips-in-full-stack-development/redis-store-to-store-session-78e0e089d702
+canonical_url: https://medium.com/notes-and-tips-in-full-stack-development/redis-store-to-store-session-78e0e089d702
 title: Redis Store to Store Session
 subtitle: I use Redis to store session and cache. And when I try to cache some session
   values, I get an exception “TypeError (can’t dump TCPSocket)”…

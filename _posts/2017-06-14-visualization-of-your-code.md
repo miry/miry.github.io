@@ -1,6 +1,6 @@
 ---
-url: https://jtway.co/visualization-of-your-code-d4701affa767
-canonical_url: https://jtway.co/visualization-of-your-code-d4701affa767
+url: https://medium.com/notes-and-tips-in-full-stack-development/visualization-of-your-code-d4701affa767
+canonical_url: https://medium.com/notes-and-tips-in-full-stack-development/visualization-of-your-code-d4701affa767
 title: Visualization of Your Code
 subtitle: 'Working at long and big projects, it is fun to see on a release date how
   this project was built: who worked at a particular part; when a…'

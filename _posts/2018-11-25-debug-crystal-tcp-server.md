@@ -1,6 +1,6 @@
 ---
-url: https://jtway.co/debug-crystal-tcp-server-34cb3af4fbbc
-canonical_url: https://jtway.co/debug-crystal-tcp-server-34cb3af4fbbc
+url: https://medium.com/notes-and-tips-in-full-stack-development/debug-crystal-tcp-server-34cb3af4fbbc
+canonical_url: https://medium.com/notes-and-tips-in-full-stack-development/debug-crystal-tcp-server-34cb3af4fbbc
 title: Debug Crystal TCP server
 subtitle: Learn how to debug TCP communications with Wireshark
 slug: debug-crystal-tcp-server

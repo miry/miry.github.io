@@ -1,6 +1,6 @@
 ---
-url: https://jtway.co/allow-multiple-access-control-requests-for-rails-50d1162c1425
-canonical_url: https://jtway.co/allow-multiple-access-control-requests-for-rails-50d1162c1425
+url: https://medium.com/notes-and-tips-in-full-stack-development/allow-multiple-access-control-requests-for-rails-50d1162c1425
+canonical_url: https://medium.com/notes-and-tips-in-full-stack-development/allow-multiple-access-control-requests-for-rails-50d1162c1425
 title: Allow Multiple Access Control Requests for Rails
 subtitle: If you have problem with sending XHR requests from different domains, it
   will be problematic to get content, because

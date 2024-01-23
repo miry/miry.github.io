@@ -1,5 +1,5 @@
 ---
-url: https://jtway.co/how-to-automate-building-local-virtual-machines-with-packer-a238ba6b49c7
+url: https://medium.com/notes-and-tips-in-full-stack-development/how-to-automate-building-local-virtual-machines-with-packer-a238ba6b49c7
 canonical_url: https://codeberg.org/miry/samples/src/branch/master/experiments/3-packer-images/README.md
 title: How to automate building local virtual machines with Packer
 subtitle: We will learn how to create a disk image base on a remote iso disk image.

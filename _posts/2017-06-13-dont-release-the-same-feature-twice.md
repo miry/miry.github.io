@@ -1,6 +1,6 @@
 ---
-url: https://jtway.co/dont-release-the-same-feature-twice-c816bb47bb0d
-canonical_url: https://jtway.co/dont-release-the-same-feature-twice-c816bb47bb0d
+url: https://medium.com/notes-and-tips-in-full-stack-development/dont-release-the-same-feature-twice-c816bb47bb0d
+canonical_url: https://medium.com/notes-and-tips-in-full-stack-development/dont-release-the-same-feature-twice-c816bb47bb0d
 title: Don’t Release The Same Feature Twice
 subtitle: I do not like bureaucracy, but I can not live without it. That’s why I have
   integrated Changelog to the project. After a few deploys, I…

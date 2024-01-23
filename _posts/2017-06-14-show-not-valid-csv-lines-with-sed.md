@@ -1,6 +1,6 @@
 ---
-url: https://jtway.co/show-not-valid-csv-lines-with-sed-fa82da01f133
-canonical_url: https://jtway.co/show-not-valid-csv-lines-with-sed-fa82da01f133
+url: https://medium.com/notes-and-tips-in-full-stack-development/show-not-valid-csv-lines-with-sed-fa82da01f133
+canonical_url: https://medium.com/notes-and-tips-in-full-stack-development/show-not-valid-csv-lines-with-sed-fa82da01f133
 title: Show Not Valid CSV Lines with Sed
 subtitle: I have an issue with invalid formatted CSV file. First step show lines with
   invalid lines.

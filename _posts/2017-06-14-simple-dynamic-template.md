@@ -1,6 +1,6 @@
 ---
-url: https://jtway.co/simple-dynamic-template-687ffbefce71
-canonical_url: https://jtway.co/simple-dynamic-template-687ffbefce71
+url: https://medium.com/notes-and-tips-in-full-stack-development/simple-dynamic-template-687ffbefce71
+canonical_url: https://medium.com/notes-and-tips-in-full-stack-development/simple-dynamic-template-687ffbefce71
 title: Simple Dynamic Template
 subtitle: Sometimes we need to define a dynamic template before defining variables
   used in the template. Let me show a few examples how to solve this…

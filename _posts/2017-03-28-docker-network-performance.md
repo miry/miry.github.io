@@ -1,6 +1,6 @@
 ---
-url: https://jtway.co/docker-network-performance-b95bce32b4b9
-canonical_url: https://jtway.co/docker-network-performance-b95bce32b4b9
+url: https://medium.com/notes-and-tips-in-full-stack-development/docker-network-performance-b95bce32b4b9
+canonical_url: https://medium.com/notes-and-tips-in-full-stack-development/docker-network-performance-b95bce32b4b9
 title: Docker network performance
 subtitle: I think everyone has thought about what the difference between BRIDGE and
   HOST modes to run containers, except run applications with the…

@@ -1,5 +1,5 @@
 base_folder = "."
-medup_options = "--update -d #{base_folder}/_posts/ --assets-dir=#{base_folder}/assets --assets-base-path=/assets"
+medup_options = "--update -d #{base_folder}/_posts/ --assets-dir=#{base_folder}/assets --assets-base-path=/assets --assets-images"
 
 desc "Download posts from all sources"
 task download: %i[download:medium download:devto]

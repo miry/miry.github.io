@@ -1,6 +1,6 @@
 ---
-url: https://jtway.co/how-to-begin-with-traces-in-crystal-2fd6a0255447
-canonical_url: https://jtway.co/how-to-begin-with-traces-in-crystal-2fd6a0255447
+url: https://medium.com/notes-and-tips-in-full-stack-development/how-to-begin-with-traces-in-crystal-2fd6a0255447
+canonical_url: https://medium.com/notes-and-tips-in-full-stack-development/how-to-begin-with-traces-in-crystal-2fd6a0255447
 title: How to begin with Traces in Crystal
 subtitle: Primitve two code examples to start working with Traces
 slug: how-to-begin-with-traces-in-crystal
