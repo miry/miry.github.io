@@ -7,9 +7,9 @@ subtitle: It is interesting to analyze how a data structure has a different perf
 slug: visualize-go-app-benchmarking
 description: ""
 tags:
-- golang
 - benchmark
 - google-charts
+- go
 author: Michael Nikitochkin
 username: miry
 ---
