@@ -1,6 +1,6 @@
 remote_theme: chesterhow/tale
-permalink:  /:year-:month-:day/:title
-paginate:   25
+permalink: /:year-:month-:day/:title
+paginate: 25
 plugins:
   - jekyll-paginate
   - jekyll-remote-theme
@@ -15,7 +15,7 @@ description: >-
   ПТН ПНХ!
 
 twitter_username: miry_sof
-github_username:  miry
+github_username: miry
 
 defaults:
   - scope:
