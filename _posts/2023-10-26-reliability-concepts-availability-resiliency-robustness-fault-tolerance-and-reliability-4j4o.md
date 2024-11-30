@@ -13,7 +13,7 @@ author: Michael Nikitochkin
 username: miry
 ---
 
-![Cover image](/assets/2023-10-26-reliability-concepts-availability-resiliency-robustness-fault-tolerance-and-reliability-4j4o-cover_image-https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn261b1zdgrqw99aimxzs.jpg)
+![Cover image](/assets/2023-10-26-reliability-concepts-availability-resiliency-robustness-fault-tolerance-and-reliability-4j4o-cover_image-n261b1zdgrqw99aimxzs.jpg)
 
 # Reliability concepts: Availability, Resiliency, Robustness, Fault-Tolerance, and Reliability
 

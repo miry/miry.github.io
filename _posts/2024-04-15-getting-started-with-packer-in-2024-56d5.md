@@ -13,7 +13,7 @@ author: Michael Nikitochkin
 username: miry
 ---
 
-![Cover image](/assets/2024-04-15-getting-started-with-packer-in-2024-56d5-cover_image-https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc14a2iiydmn4po8xd61f.jpg)
+![Cover image](/assets/2024-04-15-getting-started-with-packer-in-2024-56d5-cover_image-c14a2iiydmn4po8xd61f.jpg)
 
 # Getting started with Packer in 2024
 

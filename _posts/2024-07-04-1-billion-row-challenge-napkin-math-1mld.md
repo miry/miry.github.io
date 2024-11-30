@@ -13,7 +13,7 @@ author: Michael Nikitochkin
 username: miry
 ---
 
-![Cover image](/assets/2024-07-04-1-billion-row-challenge-napkin-math-1mld-cover_image-https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Firmci5qzdlhrwm3283cp.jpg)
+![Cover image](/assets/2024-07-04-1-billion-row-challenge-napkin-math-1mld-cover_image-irmci5qzdlhrwm3283cp.jpg)
 
 # 1 Billion Row Challenge Napkin Math
 

@@ -11,7 +11,7 @@ author: Michael Nikitochkin
 username: miry
 ---
 
-![Cover image](/assets/2024-04-10-make-an-alias-for-existing-branch-5cf3-cover_image-https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3ezumsv3r7llh0x3meek.jpg)
+![Cover image](/assets/2024-04-10-make-an-alias-for-existing-branch-5cf3-cover_image-3ezumsv3r7llh0x3meek.jpg)
 
 # Make an alias for existing branch
 

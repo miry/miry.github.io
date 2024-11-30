@@ -13,7 +13,7 @@ author: Michael Nikitochkin
 username: miry
 ---
 
-![Cover image](/assets/2023-02-19-minimalistic-web-server-for-static-files-with-crystal-19a1-cover_image-https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F32ljw717osu23pim3fwb.jpg)
+![Cover image](/assets/2023-02-19-minimalistic-web-server-for-static-files-with-crystal-19a1-cover_image-32ljw717osu23pim3fwb.jpg)
 
 # Minimalist web server for static files with Crystal
 

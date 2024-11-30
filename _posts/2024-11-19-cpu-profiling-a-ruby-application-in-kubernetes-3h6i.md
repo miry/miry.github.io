@@ -14,7 +14,7 @@ author: Michael Nikitochkin
 username: miry
 ---
 
-![Cover image](/assets/2024-11-19-cpu-profiling-a-ruby-application-in-kubernetes-3h6i-cover_image-https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flu9okrqilodwp0pqp7cf.jpeg)
+![Cover image](/assets/2024-11-19-cpu-profiling-a-ruby-application-in-kubernetes-3h6i-cover_image-lu9okrqilodwp0pqp7cf.jpeg)
 
 # CPU Profiling a Ruby Application in Kubernetes
 

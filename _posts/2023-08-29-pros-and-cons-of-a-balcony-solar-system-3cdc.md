@@ -13,7 +13,7 @@ author: Michael Nikitochkin
 username: miry
 ---
 
-![Cover image](/assets/2023-08-29-pros-and-cons-of-a-balcony-solar-system-3cdc-cover_image-https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyu6p5rocf6v4jntopgwi.jpg)
+![Cover image](/assets/2023-08-29-pros-and-cons-of-a-balcony-solar-system-3cdc-cover_image-yu6p5rocf6v4jntopgwi.jpg)
 
 # Pros and cons of a balcony solar system
 

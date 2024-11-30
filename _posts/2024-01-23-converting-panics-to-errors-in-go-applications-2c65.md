@@ -11,7 +11,7 @@ author: Michael Nikitochkin
 username: miry
 ---
 
-![Cover image](/assets/2024-01-23-converting-panics-to-errors-in-go-applications-2c65-cover_image-https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1m2g9etk91c5enaxfyge.jpg)
+![Cover image](/assets/2024-01-23-converting-panics-to-errors-in-go-applications-2c65-cover_image-1m2g9etk91c5enaxfyge.jpg)
 
 # Converting Panics to Errors in Go Applications
 

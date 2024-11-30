@@ -18,7 +18,7 @@ author: Michael Nikitochkin
 username: miry
 ---
 
-![Cover image](/assets/2023-11-26-what-is-an-incident-4b66-cover_image-https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fduhb38496cur2suqfvsi.jpg)
+![Cover image](/assets/2023-11-26-what-is-an-incident-4b66-cover_image-duhb38496cur2suqfvsi.jpg)
 
 # What is an Incident?
 

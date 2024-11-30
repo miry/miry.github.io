@@ -13,7 +13,7 @@ author: Michael Nikitochkin
 username: miry
 ---
 
-![Cover image](/assets/2022-12-11-quick-note-generate-flamegraph-for-crystal-app-47km-cover_image-https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx40vzxdaox83rd30r71b.png)
+![Cover image](/assets/2022-12-11-quick-note-generate-flamegraph-for-crystal-app-47km-cover_image-x40vzxdaox83rd30r71b.png)
 
 # Quick note: Generate flamegraph for Crystal app
 

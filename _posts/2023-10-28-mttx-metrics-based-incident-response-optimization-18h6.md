@@ -18,7 +18,7 @@ author: Michael Nikitochkin
 username: miry
 ---
 
-![Cover image](/assets/2023-10-28-mttx-metrics-based-incident-response-optimization-18h6-cover_image-https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbl6y0j04zjzagafv6zez.jpg)
+![Cover image](/assets/2023-10-28-mttx-metrics-based-incident-response-optimization-18h6-cover_image-bl6y0j04zjzagafv6zez.jpg)
 
 # MTTx Metrics-Based Incident Response Optimization
 

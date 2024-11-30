@@ -16,7 +16,7 @@ author: Michael Nikitochkin
 username: miry
 ---
 
-![Cover image](/assets/2023-10-13-getting-started-with-obs-a-beginners-guide-129a-cover_image-https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F43o6j687gvssudds800x.jpg)
+![Cover image](/assets/2023-10-13-getting-started-with-obs-a-beginners-guide-129a-cover_image-43o6j687gvssudds800x.jpg)
 
 # Getting Started with OBS: A Beginner's Guide
 

@@ -13,7 +13,7 @@ author: Michael Nikitochkin
 username: miry
 ---
 
-![Cover image](/assets/2024-01-04-unlocking-performance-installing-ruby-with-yjit-on-macos-3iei-cover_image-https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F94rwktpgvji3k4jwupy0.png)
+![Cover image](/assets/2024-01-04-unlocking-performance-installing-ruby-with-yjit-on-macos-3iei-cover_image-94rwktpgvji3k4jwupy0.png)
 
 # Unlocking Performance: Installing Ruby with YJIT on MacOS
 
